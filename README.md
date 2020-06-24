@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Next.js With G6 Demo 
-no support ssr
+Solve the problem that G6 does not support ssr
+
 
